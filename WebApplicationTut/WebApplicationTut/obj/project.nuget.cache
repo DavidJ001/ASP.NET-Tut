@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EosVGCSawL3jYJCKbhouxRF/KCHROt1KswnyrNa6wSybtrAb9+2PPaAlyXMtuagZOR70/P91BPXnOuxpzGYmsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\david\\source\\repos\\ASP.NET-Tut\\WebApplicationTut\\WebApplicationTut\\WebApplicationTut.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\microsoft.typescript.msbuild\\4.7.4\\microsoft.typescript.msbuild.4.7.4.nupkg.sha512",
+    "C:\\Users\\david\\.nuget\\packages\\typescript.msbuildtask\\1.7.3\\typescript.msbuildtask.1.7.3.nupkg.sha512"
+  ],
+  "logs": []
+}

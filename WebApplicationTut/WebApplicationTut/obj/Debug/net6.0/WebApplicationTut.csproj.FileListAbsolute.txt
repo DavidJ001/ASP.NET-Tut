@@ -1,0 +1,1 @@
+C:\Users\david\source\repos\ASP.NET-Tut\WebApplicationTut\WebApplicationTut\obj\Debug\net6.0\WebApplicationTut.csproj.AssemblyReference.cache
